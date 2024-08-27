@@ -1,0 +1,12 @@
+4f1c33c10d6e509d49742cfe8f2cb506 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+6d1ad7e577a6abd49d71ba9f0de4d7e0 *NEWS.md
+1be6d77f55f8df46b262469ef1a2a728 *README.md
+cec78375cbf14ecdd8ff0b95bff247f4 *data/Chess2015.rda
+6b312c975682e00a9f5683aa81dafd19 *data/Chess2020.rda
+3ddb684aae9adc01c514a8bcd8bf6be0 *data/ChessCountries.rda
+fc420ec414a575e88bca8467f41dc806 *data/datalist
+470ba600ce52904353d3c95c14f49dd0 *man/Chess2015.Rd
+56d063c7b425cd4ad201d59cae310aa1 *man/Chess2020.Rd
+b5c20c011e8d6dcf83320ee426ea77be *man/ChessCountries.Rd
+b6d1ab07b67bc72daeacc7e40b4a8a39 *man/ChessGmooG.Rd
